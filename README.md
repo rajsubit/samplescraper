@@ -4,4 +4,4 @@ The script is specific to the webpage http://www.imdb.com/name/nm0000329/awards?
 
 Run the file using python command.
 
-python samplecode/imdb_award_scrapper.py
+`python samplecode/imdb_award_scrapper.py`
